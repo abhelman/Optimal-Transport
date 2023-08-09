@@ -13,6 +13,9 @@ Below, the distrubution of a heart (seen on the left in color) is transported on
 
 ![before_after_heart](https://github.com/abhelman/Optimal-Transport/assets/113809366/2d3fd4c3-342d-4348-a1e8-8c240d23517e)
 
+![before_after_swirl](https://github.com/abhelman/Optimal-Transport/assets/113809366/95df0053-d714-4043-97ef-d0a27f62d7f4)
+
+
 # Sources
 
 [1] M. Cuturi, Sinkhorn Distances : Lightspeed Computation of Optimal Transport, Advances in Neural Information Processing Systems (NIPS) 26, 2013
